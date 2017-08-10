@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a94b6f2995ee87b4fb2fb62595ea51d3
+timeCreated: 1502260828
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Virtual Rot
+  fontNames:
+  - Virtual Rot
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
