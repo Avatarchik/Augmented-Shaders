@@ -3,7 +3,7 @@
 ![unity](https://user-images.githubusercontent.com/18353476/29190917-b09be474-7dd0-11e7-9ada-b68d15f26d54.gif)
                
 # AR App UI
-7 different shaders to produce the produce the appropriate levels of light, darkness, and color within an image) for integrating real world objects into your augmented reality game. Shader colors include  Normal Shader, Invert Shader, Grayscale Shader, Grayscale Threshold Shader, Grayscale Ramp Shader, Sepia Shader, and finally Chroma Key Shader with support for Blue, Green, and Red chroma keying.
+7 different shaders to produce the appropriate levels of light, darkness, and color within an image) for integrating real world objects into your augmented reality game. Shader colors include  Normal Shader, Invert Shader, Grayscale Shader, Grayscale Threshold Shader, Grayscale Ramp Shader, Sepia Shader, and finally Chroma Key Shader with support for Blue, Green, and Red chroma keying.
 ![ar video shaders ui](https://user-images.githubusercontent.com/18353476/29189605-02ae9b76-7dcc-11e7-9425-51f1e4c63a47.PNG)
 
 # Unity3d(Building for Android and iOS)
