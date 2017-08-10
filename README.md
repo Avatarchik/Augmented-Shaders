@@ -32,7 +32,7 @@ Requires XCode 9 beta or later: https://developer.apple.com/xcode/
 
 Requires iOS device(iPhone 6S or later, iPad (2016) or later)
 
-In Bulid setting make sure to checkmark the boxes for Symlink Unity libraries and Deevelopment Build.
+In Bulid setting make sure to checkmark the boxes for Symlink Unity libraries and Development Build.
 ![switch_platform-ios](https://user-images.githubusercontent.com/18353476/29189508-afd6ff06-7dcb-11e7-84e3-0b45e50e36ca.png)
 
 
