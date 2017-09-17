@@ -4,10 +4,15 @@
                
 # AR App UI
 7 different shaders to produce the appropriate levels of light, darkness, and color within an image) for integrating real world objects into your augmented reality game. Shader colors include  Normal Shader, Invert Shader, Grayscale Shader, Grayscale Threshold Shader, Grayscale Ramp Shader, Sepia Shader, and finally Chroma Key Shader with support for Blue, Green, and Red chroma keying.
-![ar video shaders ui](https://user-images.githubusercontent.com/18353476/29189605-02ae9b76-7dcc-11e7-9425-51f1e4c63a47.PNG)
+
+iPad mini
+![ipad ui](https://user-images.githubusercontent.com/18353476/30525447-8b939db2-9bbb-11e7-9e7b-11bdb1c32ca5.jpg)
+Nexus tablet
+![nexus ui](https://user-images.githubusercontent.com/18353476/30525489-3effd0c8-9bbc-11e7-8961-371891aba62a.jpg)
+
 
 # Unity3d(Building for Android and iOS)
-https://unity3d.com/
+[Get Unity here.](https://unity3d.com/)
 
 [Game Development with Unity for iOS and Android devices.pdf](https://github.com/Mikerr1111/Marauder-Wolves/files/1216274/Game.Development.with.Unity.for.iOS.and.Android.devices.pdf)
 
