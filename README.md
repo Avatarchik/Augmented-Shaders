@@ -5,10 +5,10 @@
 # AR App UI
 7 different shaders to produce the appropriate levels of light, darkness, and color within an image) for integrating real world objects into your augmented reality game. Shader colors include  Normal Shader, Invert Shader, Grayscale Shader, Grayscale Threshold Shader, Grayscale Ramp Shader, Sepia Shader, and finally Chroma Key Shader with support for Blue, Green, and Red chroma keying.
 
-iPad mini
+iPad 
 ![ipad ui](https://user-images.githubusercontent.com/18353476/30525447-8b939db2-9bbb-11e7-9e7b-11bdb1c32ca5.jpg)
-Nexus tablet
-![nexus ui](https://user-images.githubusercontent.com/18353476/30525489-3effd0c8-9bbc-11e7-8961-371891aba62a.jpg)
+Nexus 10
+![nexus 10](https://user-images.githubusercontent.com/18353476/30525598-725ccc58-9bbe-11e7-8781-cc6ec3f54e17.png)
 
 
 # Unity3d(Building for Android and iOS)
